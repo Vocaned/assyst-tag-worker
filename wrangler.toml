@@ -1,0 +1,13 @@
+name = "assyst-tag-apiworker"
+main = "src/index.ts"
+compatibility_date = "2023-05-21"
+usage_model = "bundled"
+env = { }
+kv_namespaces = [
+  { binding = "QUERIES", id = "21a3b155175646d484393a4a4b411e6a", preview_id = "afbe63f146e04fcba9b09a91b179578e" }
+]
+
+
+[triggers]
+crons = [ ]
+
